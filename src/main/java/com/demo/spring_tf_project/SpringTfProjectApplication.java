@@ -1,6 +1,5 @@
 package com.demo.spring_tf_project;
 
-import jakarta.persistence.Entity;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 

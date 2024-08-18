@@ -37,7 +37,7 @@ public class WebSecurityConfig {
 
 
     @Bean
-    public SecurityFilterChain redirect(HttpSecurity http) throws Exception {
+    public SecurityFilterChain authorizeRequests(HttpSecurity http) throws Exception {
 
         http.authorizeHttpRequests(
                 (authorize) ->
