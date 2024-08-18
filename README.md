@@ -14,4 +14,5 @@ Spring Web MVC,
 Spring Data JPA,
 H2 DB,
 Spring Security,
+Hibernate,
 Thymeleaf template engine (view)
